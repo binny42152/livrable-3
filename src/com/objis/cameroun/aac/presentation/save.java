@@ -8,7 +8,7 @@ import com.objis.cameroun.aac.service.IService;
 import com.objis.cameroun.aac.service.ServiceImpl;
 
 public class save {
-
+	//méthode main
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
